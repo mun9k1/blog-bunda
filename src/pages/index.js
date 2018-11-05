@@ -6,7 +6,7 @@ const IndexPage = () => (
     <h1>Belajar Berpikir Positif</h1>
     <p>KelasIbuBelajar adalah adalah tempat para ibu menyalurakan pikiran dan <br/>
       energi untuk lebih positif</p>
-    <Link to="/page-2/">Get Started!</Link>
+    <Link to="/page-2/">Get Started yuk!</Link>
   </div>
 )
 
